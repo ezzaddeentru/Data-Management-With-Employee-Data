@@ -1,0 +1,5 @@
+id,first_name,last_name,title,team,monthly_salary,Status,country,city,street,street_number,emergency_contact,emergency_number,emergency_relationship,office,office_country,office_city,office_street,office_street_number
+A2R5H9,Jax,Hunman,CEO,Leadership,$4500,On-site,BE,Leuven,Grote Markt,9,Opie Hurst,+32-456-5556-84,Brother,Leuven Office,BE,Leuven,Martelarenlaan,38.0
+H8K0L6,Tara,Siff,CFO,Leadership,$4500,On-site,GB,London,Baker Street,221,Wendy de Matteo,+44-020-5554-333,Sister,WeWork Office,GB,London,Old Street,207.0
+G4R7V0,Gemma,Sagal,Business Developer,Sales,$3000,On-site,US,New-York,Perry Street,66,John Newmark,+1-202-555-194,Husband,ESB Office,US,New York City,Fifth Avenue,350.0
+M1Z7U9,Tig,Coates,Office Manager,People Operations,$2000,Remote,FR,Paris,Rue de l'Université,7,Venus Noone,+1-202-555-0130,Wife,,,,,
